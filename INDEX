@@ -1,0 +1,18 @@
+<html>
+	<head>
+		<title>Fontes</title>
+	</head>
+	<body>
+	<h1 align=center > Usando a TAG font</h1>
+		<p>
+			<font color="blue" face="Arial">
+				Fonte Arial Azul
+			</font>
+			</p>
+		</p>
+			<font color="#21dc95" face="Castelar" size="6">
+				Fonte Castelar Amarelo Tamanho 6
+			</font>
+		</p>
+		<hr>
+		<img alt="Cade a imagem" width="200" height="150" src="imagem.jpg" />
